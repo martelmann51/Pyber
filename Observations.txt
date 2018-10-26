@@ -1,0 +1,7 @@
+Three Observable Trends
+
+1. Ride sharing is more used in urban areas than rurual and suburban.
+
+2. Averages fares tend to be higher in cities with fewer drivers.
+
+3. Urban areas total fares were greater than Rural and Suburban area total fares combined.
